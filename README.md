@@ -1,12 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Connor Fisbeck
+## Lab09
+## 11-19-2024
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Lab TA
+* Python Crash Course book
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* 
